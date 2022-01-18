@@ -23,3 +23,4 @@ asdasdasd
 hello 
 iam person to learn git 
 >>>>>>> 4b2de40 (initial commit)
+yes do it fast
